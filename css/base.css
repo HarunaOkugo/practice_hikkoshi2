@@ -1,0 +1,20 @@
+body{
+    font-size: 16px;
+}
+
+input{
+    font-size: 15px;
+}
+
+select{
+    font-size: 14px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+address, caption, cite, code, dfn, em, strong, th, var {
+    font-style: normal;
+    font-weight: 400;
+}
